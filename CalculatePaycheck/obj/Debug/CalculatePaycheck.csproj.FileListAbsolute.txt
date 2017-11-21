@@ -1,0 +1,9 @@
+C:\Courses\PROG37721\Week02\CalculatePaycheck\CalculatePaycheck\bin\Debug\CalculatePaycheck.exe.config
+C:\Courses\PROG37721\Week02\CalculatePaycheck\CalculatePaycheck\bin\Debug\CalculatePaycheck.exe
+C:\Courses\PROG37721\Week02\CalculatePaycheck\CalculatePaycheck\bin\Debug\CalculatePaycheck.pdb
+C:\Courses\PROG37721\Week02\CalculatePaycheck\CalculatePaycheck\obj\Debug\CalculatePaycheck.csprojResolveAssemblyReference.cache
+C:\Courses\PROG37721\Week02\CalculatePaycheck\CalculatePaycheck\obj\Debug\CalculatePaycheck.Form1.resources
+C:\Courses\PROG37721\Week02\CalculatePaycheck\CalculatePaycheck\obj\Debug\CalculatePaycheck.Properties.Resources.resources
+C:\Courses\PROG37721\Week02\CalculatePaycheck\CalculatePaycheck\obj\Debug\CalculatePaycheck.csproj.GenerateResource.Cache
+C:\Courses\PROG37721\Week02\CalculatePaycheck\CalculatePaycheck\obj\Debug\CalculatePaycheck.exe
+C:\Courses\PROG37721\Week02\CalculatePaycheck\CalculatePaycheck\obj\Debug\CalculatePaycheck.pdb

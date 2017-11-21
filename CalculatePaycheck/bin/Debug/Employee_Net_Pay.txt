@@ -1,0 +1,10 @@
+Employee: abc
+ Work ID: 123
+GrossPay: 1820.375
+   SSTax: 109.2225
+   FITax: 254.8525
+   PITax: 91.01875
+UnionFee: 25
+  DepFee: 50
+
+  NetPay: 1290.281
